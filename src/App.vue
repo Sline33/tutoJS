@@ -3,6 +3,7 @@
     <h1>{{ title }}</h1>
     <input v-model="title" v-on:change="callMethod">
     <p>Hello nouveau test</p>
+    <h2>gary</h2>
   </div>
 </template>
 
